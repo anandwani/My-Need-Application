@@ -1,2 +1,3 @@
 # My-Need-Application
-COORDINATING AN UN-ADMINISTERED AND SELF VOLUNTEERED CRISIS MANAGEMENT IN TRAINS WITH SMARTPHONES IN INDIAN SCENARIO
+
+Coordinating an un-administered and self volunteered crisis in trains.
